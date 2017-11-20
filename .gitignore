@@ -1,11 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
-.idea/modules.xml
-.idea/sbt.xml
-.idea/scala_compiler.xml
-.idea/vcs.xml
-.idea/misc.xml
-.idea/workspace.xml
+.idea/*
 project/target/config-classes/$01fcbf56ec4f0c0291f9$$anonfun$$sbtdef$1$$anonfun$apply$1.class
 project/target/config-classes/$01fcbf56ec4f0c0291f9$$anonfun$$sbtdef$1.class
 project/target/config-classes/$01fcbf56ec4f0c0291f9$$anonfun$$sbtdef$2.class
