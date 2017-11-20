@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
 .idea/*
+main/resources/*
 project/target/config-classes/$01fcbf56ec4f0c0291f9$$anonfun$$sbtdef$1$$anonfun$apply$1.class
 project/target/config-classes/$01fcbf56ec4f0c0291f9$$anonfun$$sbtdef$1.class
 project/target/config-classes/$01fcbf56ec4f0c0291f9$$anonfun$$sbtdef$2.class
@@ -19,3 +20,5 @@ target/streams/runtime/externalDependencyClasspath/
 target/streams/runtime/managedClasspath/
 target/streams/test/externalDependencyClasspath/
 target/streams/test/managedClasspath/
+src/main/resources/
+target/scala-2.11/
